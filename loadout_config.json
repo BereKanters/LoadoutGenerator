@@ -1,0 +1,25 @@
+{
+  "include": {
+    "melee": true,
+    "weapon": true,
+    "armour": true,
+    "filter": true,
+    "money": true,
+    "medicine": true,
+    "bandages": true,
+    "medkits": false,
+    "food": true,
+    "water": true,
+    "pack": false,
+    "gasmask": false,
+    "pockets": true,
+    "restraints": false
+  },
+  "lock": {
+    "melee": true,
+    "weapon": false,
+    "armour": false,
+    "filter": false,
+    "money": false
+  }
+}
